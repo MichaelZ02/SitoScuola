@@ -1,0 +1,52 @@
+body{
+    
+    background-image: url('sfondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+.titoloRegistro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+
+}
+
+.inputTesto{
+
+    margin-left: 32%;
+    font-size: 20px;
+    color:white;
+    width: 35%;
+    background-color: #29344c;
+    border-color: #29344c;
+}
+
+.pulsante{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #a93c43;
+    border-color: #751414;
+    margin-top: 2%;
+    margin-left: 60.5%;
+}
+
+.titoliForm{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 32%;
+    font-size: 30px;
+    color: white; 
+}
+.pos{
+    margin-top: 10%;
+}
+.img{
+    padding-top: 0.25%;
+    padding-left: 44%;
+    margin: auto;
+    width: 10%;
+    height: 10%;
+}
